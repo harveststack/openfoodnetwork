@@ -18,6 +18,8 @@ nav {
       background-color: transparent;
     }
 
+
+
     ul.center {
       display: inline-block;
 
@@ -76,7 +78,7 @@ nav {
     @include headingFont;
 
     font-size: 0.875rem;
-    font-weight: 300;
+    font-weight: 500;
   }
 
   ul .nav-primary {

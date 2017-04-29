@@ -15,7 +15,7 @@ div.dashboard_item {
     border-radius: 10px;
 
     &.green {
-      background-color: #9fc820;
+      background-color: #abce41;
     }
 
     &.red {
@@ -30,7 +30,7 @@ div.dashboard_item {
   div.header {
     height: 50px;
     border-radius: 6px 6px 0px 0px;
-    border: 1px solid #5498da;
+    border: 1px solid #9d74c4;
     position: relative;
 
     a[ofn-with-tip] {
@@ -72,7 +72,7 @@ div.dashboard_item {
 
   .tabs {
     height: 30px;
-    border: solid #5498da;
+    border: solid #9d74c4;
     border-width: 0px 0px 1px 0px;
     margin-top: 3px;
 
@@ -80,19 +80,19 @@ div.dashboard_item {
       cursor: pointer;
       height: 30px;
       color: #fff;
-      background-color: #5498da;
+      background-color: #9d74c4;
       padding: 5px 5px 0px 5px;
       text-align: center;
       font-weight: bold;
-      border: solid #5498da;
+      border: solid #9d74c4;
       border-width: 1px 1px 0px 1px;
 
       &:hover {
-        background-color: #9fc820;
+        background-color: #abce41;
       }
 
       &.selected {
-        color: #5498da;
+        color: #9d74c4;
         background-color: #fff;
       }
     }
@@ -105,7 +105,7 @@ div.dashboard_item {
   }
 
   .list-title {
-    border: solid #5498da;
+    border: solid #9d74c4;
     border-width: 0px 1px 0px 1px;
 
     span {
@@ -120,7 +120,7 @@ div.dashboard_item {
   }
 
   .list-item {
-    border: solid #5498da;
+    border: solid #9d74c4;
     border-width: 0px 1px 0px 1px;
     height: 38px;
 
@@ -152,7 +152,7 @@ div.dashboard_item {
     }
 
     .icon-ok-sign {
-      color: #9fc820;
+      color: #abce41;
       font-size: 30px;
     }
 
@@ -181,7 +181,7 @@ div.dashboard_item {
     &.even, &.odd {
       &:hover {
         color: #ffffff;
-        background-color: #9fc820;
+        background-color: #abce41;
 
         .icon-arrow-right {
           color: #fff;
@@ -201,7 +201,7 @@ div.dashboard_item {
 
         .text-icon {
           &.green {
-            color: #9fc820;
+            color: #abce41;
             background-color: #fff;
           }
         }
@@ -220,7 +220,7 @@ div.dashboard_item {
     }
 
     &.blue {
-      background-color: #5498da;
+      background-color: #9d74c4;
     }
 
     &.red {
@@ -228,7 +228,7 @@ div.dashboard_item {
     }
 
     &:hover {
-      background-color: #9fc820;
+      background-color: #abce41;
     }
 
     &.bottom {

@@ -15,12 +15,12 @@
     .select2-choice{
       background-color: #ffffff;
       font-weight: normal;
-      border: 1px solid #5498da !important;
-      color: #5498da !important;
+      border: 1px solid #9d74c4 !important;
+      color: #9d74c4 !important;
 
       .select2-arrow {
         &:before {
-          color: #5498da;
+          color: #9d74c4;
           font-size: 1rem;
           font-weight: 400;
           content: '\25be';
@@ -32,7 +32,7 @@
     &:hover, &.select2-container-active {
       .select2-choice{
         color: #ffffff !important;
-        background-color: #5498da !important;
+        background-color: #9d74c4 !important;
 
         .select2-arrow {
           &:before {

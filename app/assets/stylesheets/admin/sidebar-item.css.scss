@@ -12,7 +12,7 @@ div.sidebar_item {
     position: relative;
 
     &.blue {
-      background-color: #5498da;
+      background-color: #9d74c4;
     }
 
     &.red {
@@ -40,7 +40,7 @@ div.sidebar_item {
           background-color: #fcf6ef;
 
           &:hover {
-            background-color: #9fc820;
+            background-color: #abce41;
           }
         }
       }
@@ -57,7 +57,7 @@ div.sidebar_item {
       font-size: 20px;
     }
 
-    border: solid #5498da;
+    border: solid #9d74c4;
     border-width: 0px 1px 0px 1px;
 
     a.alpha, span.alpha {
@@ -90,7 +90,7 @@ div.sidebar_item {
     &.even, &.odd {
       &:hover {
         color: #ffffff;
-        background-color: #9fc820;
+        background-color: #abce41;
 
         a {
           color: #ffffff;
@@ -107,7 +107,7 @@ div.sidebar_item {
     border-radius: 0px;
 
     &.blue {
-      background-color: #5498da;
+      background-color: #9d74c4;
     }
 
     &.red {
@@ -115,7 +115,7 @@ div.sidebar_item {
     }
 
     &:hover {
-      background-color: #9fc820;
+      background-color: #abce41;
     }
   }
 }

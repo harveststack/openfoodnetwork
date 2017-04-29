@@ -1,11 +1,14 @@
 #content-header .ofn-drop-down {
   border: none;
-  background-color: #5498da;
+  background-color: #9d74c4;
   color: #fff;
   float: none;
   margin-left: 3px;
 }
 
+#admin-menu{
+  background: #9d74c4 !important;
+}
 .ofn-drop-down:hover, .ofn-drop-down.expanded {
 	border: 1px solid #adadad;
 	color: #575757;

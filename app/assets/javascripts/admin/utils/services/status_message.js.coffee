@@ -4,7 +4,7 @@ angular.module("admin.utils").factory "StatusMessage", ($timeout) ->
       progress: {timeout: false, style: {color: '#ff9906'}}
       alert:    {timeout: 5000,  style: {color: 'grey'}}
       notice:   {timeout: false, style: {color: 'grey'}}
-      success:  {timeout: 5000,  style: {color: '#9fc820'}}
+      success:  {timeout: 5000,  style: {color: '#abce41'}}
       failure:  {timeout: false, style: {color: '#da5354'}}
 
     statusMessage:
