@@ -7,10 +7,10 @@
   -#.row
     -#.seven.columns.offset-by-three
       -#%center
-        -#%h1 What is open food network?
+        -#%h1 What is Harvest to Order?
         -#%p
           -#%i
-            -#Open food network is an online space in which people can connect with, trade and sell food directly with
+            -#Harvest to Order is an online space in which people can connect with, trade and sell food directly with
             -#Australian farmers.  We aim to reconnect people with their food.
   -#%hr/
 

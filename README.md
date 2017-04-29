@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/openfoodfoundation/openfoodnetwork.svg?branch=master)](https://travis-ci.org/openfoodfoundation/openfoodnetwork)
 [![Code Climate](https://codeclimate.com/github/openfoodfoundation/openfoodnetwork.png)](https://codeclimate.com/github/openfoodfoundation/openfoodnetwork)
 
-# Open Food Network
+# Harvest to Order
 
-The Open Food Network is an online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs (including coops, online farmers' markets, independent food businesses etc);  with individuals and local businesses. It gives farmers and food hubs an easier and fairer way to distribute their food.
+The Harvest to Order is an online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs (including coops, online farmers' markets, independent food businesses etc);  with individuals and local businesses. It gives farmers and food hubs an easier and fairer way to distribute their food.
 
 Supported by the Open Food Foundation, we are proudly open source and not-for-profit - we're trying to seriously disrupt the concentration of power in global agri-food systems, and we need as many smart people working together on this as possible.
 
@@ -15,7 +15,7 @@ We're part of global movement - get involved!
 
 ## Getting started
 
-Below are instructions for setting up a development environment for Open Food Network. More information is in the [developer wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki).
+Below are instructions for setting up a development environment for Harvest to Order. More information is in the [developer wiki](https://github.com/openfoodfoundation/openfoodnetwork/wiki).
 
 If you're interested in provisioning a server, see [the project's Ansible playbooks](https://github.com/openfoodfoundation/ofn_deployment).
 

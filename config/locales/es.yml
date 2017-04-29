@@ -11,11 +11,11 @@ es:
         confirmation_sent: "¡Correo de confirmación enviado!"
         confirmation_not_sent: "No se pudo enviar un correo de confirmación."
   home: "OFN"
-  title: Open Food Network
+  title: Harvest to Order
   welcome_to: 'Bienvenido a '
   search_by_name: Buscar por nombre o barrio...
   producers: Productores australianos
-  producers_join: Los productores australianos ahora son bienvenidos a unirse a Open Food Network.
+  producers_join: Los productores australianos ahora son bienvenidos a unirse a Harvest to Order.
   charges_sales_tax: ¿Cargos de GST?
   print: "Imprimir"
   confirm_send_invoice: "Una factura para esta orde se envió al cliente. ¿Está seguro que quiere continuar?"
@@ -53,7 +53,7 @@ es:
   terms_of_service: "Términos de servicio"
   on_demand: Bajo demanda
   none: Ninguno
-  alert_selling_on_ofn: "¿Interesado en vender comida en Open Food Network?"
+  alert_selling_on_ofn: "¿Interesado en vender comida en Harvest to Order?"
   alert_start_here: "Empiece aquí"
   label_shops: "Tiendas"
   label_map: "Mapa"
@@ -88,11 +88,11 @@ es:
   ofn_cart_quantitiy: "Cantidad:"
   ofn_cart_send: "Comprar me"
   ie_warning_headline: "Su navegador está desactualizado :-("
-  ie_warning_text: "Para la mejor esperiencia de Open Food Network, recomendamos actualizar su navegador:"
+  ie_warning_text: "Para la mejor esperiencia de Harvest to Order, recomendamos actualizar su navegador:"
   ie_warning_chrome: Descargar Chrome
   ie_warning_firefox: Descargar Firefox
   ie_warning_ie: Actualizar Internet Explorer
-  ie_warning_other: "¿No puede actualizar su navegador? Pruebe Open Food Network en su teléfono :-)"
+  ie_warning_other: "¿No puede actualizar su navegador? Pruebe Harvest to Order en su teléfono :-)"
   footer_global_headline: "OFN Global"
   footer_global_home: "Inicio"
   footer_global_news: "Noticas"
@@ -103,7 +103,7 @@ es:
   footer_sites_community: "Comunidad"
   footer_sites_userguide: "Guía de usuario"
   footer_secure: "Seguro y de confianza."
-  footer_secure_text: "Open Food Network usa cifrado SSL (RSA de 2048 bit) en todo lado para mantener privada la información de compras y pagos. Nuestros servidores no almacenan los detalles de tarjetas de créditos y los pagos son procesados por servicios que cumplen con PCI."
+  footer_secure_text: "Harvest to Order usa cifrado SSL (RSA de 2048 bit) en todo lado para mantener privada la información de compras y pagos. Nuestros servidores no almacenan los detalles de tarjetas de créditos y los pagos son procesados por servicios que cumplen con PCI."
   footer_contact_headline: "Mantenerse en contacto"
   footer_contact_email: "Envíenos un correo"
   footer_nav_headline: "Navegar"
@@ -115,7 +115,7 @@ es:
   footer_legal_call: "Leer nuestros"
   footer_legal_tos: "Términos y condiciones"
   footer_legal_visit: "Encuéntrenos en"
-  footer_legal_text_html: "Open Food Network es una plataforma libre y de código abierto. Nuestro contenido tiene una licencia %{content_license} y nuestro código %{code_license}."
+  footer_legal_text_html: "Harvest to Order es una plataforma libre y de código abierto. Nuestro contenido tiene una licencia %{content_license} y nuestro código %{code_license}."
   home_shop: Comprar ahora
   brandstory_headline: "Comida, no incorporada."
   brandstory_intro: "A veces la mejor forma de arreglar el sistema es empezar uno nuevo…"
@@ -123,7 +123,7 @@ es:
   brandstory_part2: "Luego necesitamos una forma de hacerlo real. Una forma de empoderar a todos los que producen, venden y compran comida. Una forma de contar todas las historias, de manejar todas las logísticas. Una forma de convertir transacción en transformación todos los días."
   brandstory_part3: "Entonces contruímos un mercado que nivela el campo de juego. Es transparente, de forma que crea relaciones reales. Es de código abierto, de forma que todos son los dueños."
   brandstory_part4: "Funciona en todo lado. Cambia todo."
-  brandstory_part5_strong: "Le llamamos Open Food Network."
+  brandstory_part5_strong: "Le llamamos Harvest to Order."
   brandstory_part6: "Todos amamos la comida. Ahora podemos amar nuestro sistema de comida también."
   system_headline: "Así es como funciona."
   system_step1: "1. Buscar"
@@ -265,7 +265,7 @@ es:
   products_edit_cart: "Editar su carrito"
   products_from: desde
   search_no_results_html: "Lo sentimos, no hay resultados para %{query}. ¿Intentar otra búsqueda?"
-  components_profiles_popover: "Los perfiles no tienen escaparate en Open Food Network, pero pueden tener su propia tienda física o en línea en otro lugar"
+  components_profiles_popover: "Los perfiles no tienen escaparate en Harvest to Order, pero pueden tener su propia tienda física o en línea en otro lugar"
   components_profiles_show: "Mostrar perfiles"
   components_filters_nofilters: "Sin filtros"
   components_filters_clearfilters: "Limpiar todos los filtros"
@@ -291,7 +291,7 @@ es:
   groups_signup_motivation3: Sabemos que tiene grandes ideas, y queremos ayudar. Compartiremos nuestro conocimiento, redes y recursos. Sabemos que el aislamiento no crea cambio, entonces nos asociaremos con usted.
   groups_signup_motivation4: Nos reunimos con usted en donde esté.
   groups_signup_motivation5: Usted puede ser una alianza de centros de acopio de comida, productores o distribuidores, y un organismo de la industria o un gobierno local.
-  groups_signup_motivation6: Cualquiera que sea su rol en el movimiento de comida local, estamos listos para ayudar. De cualquier forma en que se pregunte cómo se vería Open Food Network o qué está haciendo en su parte del mundo, empecemos la conversación.
+  groups_signup_motivation6: Cualquiera que sea su rol en el movimiento de comida local, estamos listos para ayudar. De cualquier forma en que se pregunte cómo se vería Harvest to Order o qué está haciendo en su parte del mundo, empecemos la conversación.
   groups_signup_motivation7: Hacemos que los movimientos alimenticios tengan más sentido.
   groups_signup_motivation8: Necesita activar y habilitar sus redes. Le ofrecemos una plataforma para conversación y acción. Necesita involucramiento real. Le ayudaremos a alcanzar todos los actores, todos los interesados, todos los sectores.
   groups_signup_motivation9: Necesita recursos. Le brindaremos todas nuestras experiencias para portar. Necesita cooperación. Lo conectaremos mejor a una red global de pares.
@@ -306,17 +306,17 @@ es:
   modal_hubs_content1: Puede buscar un centro de acopio conveniente por ubicación o nombre. Algunos centros de acopio tienen múltiples puntos en loa que puede recoger las compras, y algunos también brindan opciones de entrega a domicilio. Cada centro de acopio de comida es un punto de venta con operaciones de negocio y logística independientes, entonces puede esperar diferencias entre centros de acopio.
   modal_hubs_content2: Sólo puede comprar en un centro de acopio a la vez.
   modal_groups: "Grupos / Regiones"
-  modal_groups_content1: Estas son las organizaciones y relaciones entre centros de acopio que conforman el Open Food Network.
+  modal_groups_content1: Estas son las organizaciones y relaciones entre centros de acopio que conforman el Harvest to Order.
   modal_groups_content2: Algunos grupos están organizados por ubicación o junta, otros por similaridades no geográficas.
   modal_how: "Cómo funciona"
-  modal_how_shop: Comprar en Open Food Network
+  modal_how_shop: Comprar en Harvest to Order
   modal_how_shop_explained: ¡Buscar un centro de acopio cerca suyo para empezar a hacer compras! Puede expandir cada centro de acopio de alimentos para ver qué tipos de bienes están disponibles, y hacer clic para empezar a comprar. (Sólo puede comprar en un centro de acopio a la vez.)
   modal_how_pickup: Retiro, entrega y costos de envío
   modal_how_pickup_explained: Algunos centros de acopio hacen entregas hasta su puerta, mientras otros requieren que recoja las compras. Puede ver cuáles opciones están disponibles en su página de inicio, y seleccionar cuál le gustaría en las páginas de compras y revisión. Las entregas costarán más, y el precio cambia entre centros de acopio. Cada centro de acopio de alimentos es un punto de venta con operaciones de negocio y logísitcas independientes, entonces es de esperar que hayan diferencias.
   modal_how_more: Aprender más
-  modal_how_more_explained: "Si quiere aprender más acerca del Open Food Network, cómo trabaja y colaborar, revise:"
+  modal_how_more_explained: "Si quiere aprender más acerca del Harvest to Order, cómo trabaja y colaborar, revise:"
   modal_producers: "Productores"
-  modal_producers_explained: "Nuestros productores hacen todos los deliciosos alimentos que pueden comprar en la Open Food Network."
+  modal_producers_explained: "Nuestros productores hacen todos los deliciosos alimentos que pueden comprar en la Harvest to Order."
   ocs_choice_hub: "Centro de acopio:"
   ocs_choice_oc: "Ciclo de orden:"
   ocs_choice_text: "No ha seleccionado aún el lugar de dónde va a recibir su orden."
@@ -447,7 +447,7 @@ es:
   choose_password: "Escoja una contraseña"
   confirm_password: "Confirmar contraseña"
   action_signup: "Registrarse ahora"
-  welcome_to_ofn: "¡Bienvenido a Open Food Network!"
+  welcome_to_ofn: "¡Bienvenido a Harvest to Order!"
   signup_or_login: "Empiece registrándose (o iniciando sesión)"
   have_an_account: "¿Ya tiene una cuenta?"
   action_login: "Inicie sesión ahora."
@@ -484,7 +484,7 @@ es:
   logo_placeholder: "El logo aparecerá aquí para ser revisado cuando se haya subido"
   enterprise_about_headline: "¡Buena esa!"
   enterprise_about_message: "Ahora vamos a profundizar en los detalles acerca de"
-  enterprise_success: "¡Éxito! %{enterprise} se agregó a la Open Food Network "
+  enterprise_success: "¡Éxito! %{enterprise} se agregó a la Harvest to Order "
   enterprise_registration_exit_message: "Si sale de este asistente en cualquier etapa, debe hacer clic en el enlace de confirmación el el correo electrónico que recibió. Esto lo llevará a la interfaz de administración en la que puede continuar configurando su perfil."
   enterprise_description: "Descripción corta"
   enterprise_description_placeholder: "Una oración corta que describa su empresa"
@@ -519,15 +519,15 @@ es:
   registration_promo_image: "Imagen en formato apaisado para su perfil"
   registration_about_us: "Texto 'Acerca de nosotros'"
   registration_outcome_headline: "¿Qué recibo?"
-  registration_outcome1_html: "Su perfil le ayuda a las personas a <strong>encontrarle</strong> y <strong>contactarle</strong> en la Open Food Network."
+  registration_outcome1_html: "Su perfil le ayuda a las personas a <strong>encontrarle</strong> y <strong>contactarle</strong> en la Harvest to Order."
   registration_outcome2: "Use este espacio para contar la historia de su empresa, para ayudar a dirigir conexiones a su presencia social y en línea."
-  registration_outcome3: "También es un primer paso para negociar en la Open Food Network, o abrir una tienda en línea."
+  registration_outcome3: "También es un primer paso para negociar en la Harvest to Order, o abrir una tienda en línea."
   registration_finished_headline: "¡Terminado!"
   registration_finished_thanks: "Gracias por llenar los detalles de %{enterprise}."
-  registration_finished_login: "Puede cambiar o actualizar su negocio en cualquier etapa iniciando sesión en Open Food Network y yendo a Admin."
+  registration_finished_login: "Puede cambiar o actualizar su negocio en cualquier etapa iniciando sesión en Harvest to Order y yendo a Admin."
   registration_finished_activate: "Activar %{enterprise}."
-  registration_finished_activate_instruction_html: "Hemos enviado un correo de confirmación a <strong>%{email}</strong> si no ha sido activado antes.<br/> Siga las instrucciones ahí para hacer su empresa visible en Open Food Network."
-  registration_finished_action: "Página de inicio de Open Food Network"
+  registration_finished_activate_instruction_html: "Hemos enviado un correo de confirmación a <strong>%{email}</strong> si no ha sido activado antes.<br/> Siga las instrucciones ahí para hacer su empresa visible en Harvest to Order."
+  registration_finished_action: "Página de inicio de Harvest to Order"
   registration_type_headline: "¡Último paso para agregar %{enterprise}!"
   registration_type_question: "¿Es un productor?"
   registration_type_producer: "Sí, soy un productor"

@@ -20,7 +20,7 @@ fr:
       subject: "Confirmez l'adresse email pour %{enterprise}"
     welcome:
       subject: "%{enterprise} est maintenant sur %{sitename}"
-  title: Open Food Network France
+  title: Harvest to Order France
   welcome_to: 'Bienvenue sur '
   site_meta_description: "Tout commence dans le sol. Avec ces paysans, agriculteurs, producteurs, engagés pour une agriculture durable et régénératrice, et désireux de partager leur histoire et leur passion avec fierté. Avec ces distributeurs souhaitant reconnecter les individus à leurs aliments et aux gens qui les produisent, soutenir les prises de conscience, dans une démarche de transparence, d'honnêteté, en assurant une juste rémunération des producteurs.  Avec ces acheteurs qui croient que de meilleures décisions d'achats peuvent ..."
   search_by_name: Recherche par nom ou département...
@@ -111,7 +111,7 @@ fr:
     business_model_configuration:
       edit:
         business_model_configuration: "Configuration du modèle économique"
-        business_model_configuration_tip: "Configure the rate at which shops will be charged each month for use of the Open Food Network."
+        business_model_configuration_tip: "Configure the rate at which shops will be charged each month for use of the Harvest to Order."
         bill_calculation_settings: "Bill Calculation Settings"
         bill_calculation_settings_tip: "Adjust the amount that enterprises will be billed each month for use of the OFN."
         shop_trial_length: "Durée de la période de test (jours)"
@@ -308,7 +308,7 @@ fr:
           permalink: Lien (pas d'espace)
           permalink_tip: "This permalink is used to create the url to your shop: %{link}your-shop-name/shop"
           link_to_front: Link to shop front
-          link_to_front_tip: A direct link to your shopfront on the Open Food Network.
+          link_to_front_tip: A direct link to your shopfront on the Harvest to Order.
         shipping_methods:
           name: Nom
           applies: Active?
@@ -604,7 +604,7 @@ fr:
   footer_legal_call: "Lire nos"
   footer_legal_tos: "Termes et conditions"
   footer_legal_visit: "Nous trouver sur"
-  footer_legal_text_html: "Open Food Network est une plateforme logicielle open source, libre et gratuite. Nos données sont protégées sous licence %{content_license} et notre code sous %{code_license}."
+  footer_legal_text_html: "Harvest to Order est une plateforme logicielle open source, libre et gratuite. Nos données sont protégées sous licence %{content_license} et notre code sous %{code_license}."
   home_shop: Faire mes courses
   brandstory_headline: "Des aliments porteurs de sens."
   brandstory_intro: "Parfois, le meilleur moyen de réparer le système, c'est d'en inventer un autre..."
@@ -612,7 +612,7 @@ fr:
   brandstory_part2: "Nous avons besoin d'un outil pour rendre tout ça réel. Un moyen de redonner le pouvoir à ceux qui cultivent, vendent et achètent la nourriture. Un moyen de raconter les histoires, de gérer la logistique. Un moyen de transformer chaque jour les transactions en actions porteuses de changement."
   brandstory_part3: "C'est pour cela que nous construisons cette plateforme, ce \"marché en ligne\", afin de rééquilibrer les échanges et redistribuer le pouvoir. Elle est transparente, pour assurer des relations équitables et favoriser les prises de conscience. Elle est open source, donc possédée par tout le monde. Elle se déploie aux échelles régionales et nationales, et des gens lancent de multiples versions à travers le monde."
   brandstory_part4: "Elle fonctionne partout. Elle change tout."
-  brandstory_part5_strong: "Cette plateforme s'appelle Open Food Network."
+  brandstory_part5_strong: "Cette plateforme s'appelle Harvest to Order."
   brandstory_part6: "Nous aimons notre nourriture. Maintenant nous pouvons aussi aimer notre système alimentaire."
   learn_body: "Explorer les modèles, les histoires et les ressources disponibles pour vous aider à développer votre propre initiative de commerce/organisation oeuvrant pour un système alimentaire équitable et juste. Trouver des outils pour vous former, des événements et autres opportunités d'apprendre de vos pairs."
   learn_cta: "Découvrir "
@@ -803,7 +803,7 @@ fr:
   groups_signup_motivation3: Vous avez de belles idées, et nous voulons vous aider. Nous partageons nos connaissances, réseaux et ressources. Nous savons que l'isolement ne crée pas le changement, alors coopérons.
   groups_signup_motivation4: Nous venons à votre rencontrer.
   groups_signup_motivation5: Vous êtes un réseau de circuits de distribution alternatifs, de producteurs, de distributeurs, une administration liée à l'industrie alimentaire ou une autorité locale?
-  groups_signup_motivation6: Quel que soit votre rôle dans la relocalisation des systèmes alimentaires, nous sommes prêts à vous soutenir. Si vous vous demandez à quoi Open Food Network ressemble / pourrait ressembler dans votre coin du monde, contactez-nous.
+  groups_signup_motivation6: Quel que soit votre rôle dans la relocalisation des systèmes alimentaires, nous sommes prêts à vous soutenir. Si vous vous demandez à quoi Harvest to Order ressemble / pourrait ressembler dans votre coin du monde, contactez-nous.
   groups_signup_motivation7: Nous contribuons à remettre du sens dans les systèmes alimentaires.
   groups_signup_motivation8: Vous avez besoin de connecter et d'outiller vos réseaux, nous offrons une plate-forme pour la coopération et l'action. Vous souhaitez de l'engagement. Nous vous aidons à atteindre les acteurs, les parties-prenantes, les secteurs.
   groups_signup_motivation9: Vous avez besoin de ressources. Nous mettons à votre service notre expérience. Vous avez besoin de coopération. Nous vous connectons à un large réseau d'acteurs et d'organisations soeurs partout dans le monde.
@@ -818,7 +818,7 @@ fr:
   modal_hubs_content1: Vous pouvez chercher le hub qui vous convient par localisation ou par nom. Certains hubs ont de multiples points de retrait de vos achats, et certains proposent également la livraison à domicile. Chaque food hub est un point de vente et gère de façon indépendante ses opérations et sa logistique - attendez-vous donc à des disparités de fonctionnement entre les hubs.
   modal_hubs_content2: Vous pouvez uniquement faire vos courses dans un hub à la fois.
   modal_groups: "Groupes / réseaux territoriaux"
-  modal_groups_content1: Voilà les organisations et les relations inter-hubs qui constituent l'Open Food Network.
+  modal_groups_content1: Voilà les organisations et les relations inter-hubs qui constituent l'Harvest to Order.
   modal_groups_content2: Certains groupes sont regroupés pas localisation ou région, d'autres sur des smilitudes non géographiques.
   modal_how: "Comment ça marche"
   modal_how_shop: Faire vos courses sur Open Food France

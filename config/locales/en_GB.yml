@@ -20,12 +20,12 @@ en_GB:
       subject: "Please confirm the email address for %{enterprise}"
     welcome:
       subject: "%{enterprise} is now on %{sitename}"
-  title: Open Food Network
+  title: Harvest to Order
   welcome_to: 'Welcome to '
   site_meta_description: "We begin from the ground up. With farmers and growers ready to tell their stories proudly and truly. With distributors ready to connect people with products fairly and honestly. With buyers who believe that better weekly shopping decisions can seriously change the world."
   search_by_name: Search by name, town, county or postcode...
   producers: 'UK Producers'
-  producers_join: UK producers are now welcome to join Open Food Network UK.
+  producers_join: UK producers are now welcome to join Harvest to Order UK.
   charges_sales_tax: Charges VAT?
   print_invoice: "Print Invoice"
   send_invoice: "Send Invoice"
@@ -180,7 +180,7 @@ en_GB:
       show_on_map: "Show all on the map"
   shared:
     register_call:
-      selling_on_ofn: "Interested in selling through the Open Food Network?"
+      selling_on_ofn: "Interested in selling through the Harvest to Order?"
       register: "Register here"
   shop:
     messages:
@@ -262,11 +262,11 @@ en_GB:
   ofn_cart_quantitiy: "Quantity:"
   ofn_cart_send: "Buy me"
   ie_warning_headline: "Your browser is out of date :-("
-  ie_warning_text: "For the best Open Food Network experience, we strongly recommend upgrading your browser:"
+  ie_warning_text: "For the best Harvest to Order experience, we strongly recommend upgrading your browser:"
   ie_warning_chrome: Download Chrome
   ie_warning_firefox: Download Firefox
   ie_warning_ie: Upgrade Internet Explorer
-  ie_warning_other: "Can't upgrade your browser? Try Open Food Network on your smartphone :-)"
+  ie_warning_other: "Can't upgrade your browser? Try Harvest to Order on your smartphone :-)"
   footer_global_headline: "OFN Global"
   footer_global_home: "Home"
   footer_global_news: "News"
@@ -277,17 +277,17 @@ en_GB:
   footer_sites_community: "Community"
   footer_sites_userguide: "User Guide"
   footer_secure: "Secure and trusted."
-  footer_secure_text: "Open Food Network uses SSL encryption (2048 bit RSA) everywhere to keep your shopping and payment information private. Our servers do not store your credit card details and payments are processed by PCI-compliant services."
+  footer_secure_text: "Harvest to Order uses SSL encryption (2048 bit RSA) everywhere to keep your shopping and payment information private. Our servers do not store your credit card details and payments are processed by PCI-compliant services."
   footer_contact_headline: "Keep in touch"
   footer_contact_email: "Email us"
   footer_nav_headline: "Navigate"
   footer_join_headline: "Join us"
-  footer_join_body: "Create a listing, shop or group directory on the Open Food Network."
+  footer_join_body: "Create a listing, shop or group directory on the Harvest to Order."
   footer_join_cta: "Tell me more!"
   footer_legal_call: "Read our"
   footer_legal_tos: "Terms and conditions"
   footer_legal_visit: "Find us on"
-  footer_legal_text_html: "Open Food Network is a free and open source software platform. Our content is licensed with %{content_license} and our code with %{code_license}."
+  footer_legal_text_html: "Harvest to Order is a free and open source software platform. Our content is licensed with %{content_license} and our code with %{code_license}."
   home_shop: Shop Now
   brandstory_headline: "Food, unincorporated."
   brandstory_intro: "Sometimes the best way to fix the system is to start a new one…"
@@ -295,7 +295,7 @@ en_GB:
   brandstory_part2: "Then we need a way to make it real. A way to empower everyone who grows, sells and buys food. A way to tell all the stories, to handle all the logistics. A way to turn transaction into transformation every day."
   brandstory_part3: "So we build an online marketplace that levels the playing field. It’s transparent, so it creates real relationships. It’s open source, so it’s owned by everyone. It scales to regions and nations, so people start versions across the world."
   brandstory_part4: "It works everywhere. It changes everything."
-  brandstory_part5_strong: "We call it Open Food Network."
+  brandstory_part5_strong: "We call it Harvest to Order."
   brandstory_part6: "We all love food. Now we can love our food system too."
   learn_body: "Explore models, stories and resources to support you to develop your fair food business or organisation. Find training, events and other opportunities to learn from peers."
   learn_cta: "Get Inspired"
@@ -457,7 +457,7 @@ en_GB:
   products_update_error_data: "Save failed due to invalid data:"
   products_changes_saved: "Changes saved."
   search_no_results_html: "Sorry, no results found for %{query}. Try another search?"
-  components_profiles_popover: "Profiles do not have a shopfront on the Open Food Network, but may have their own physical or online shop elsewhere"
+  components_profiles_popover: "Profiles do not have a shopfront on the Harvest to Order, but may have their own physical or online shop elsewhere"
   components_profiles_show: "Show profiles"
   components_filters_nofilters: "No filters"
   components_filters_clearfilters: "Clear all filters"
@@ -484,7 +484,7 @@ en_GB:
   groups_signup_motivation3: We know you have big ideas, and we want to help. We'll share our knowledge, networks and resources. We know that isolation doesn't create change, so we'll partner with you.
   groups_signup_motivation4: We meet you where you are.
   groups_signup_motivation5: You might be an alliance of food hubs, producers, or distributors, and an industry body, or a local government.
-  groups_signup_motivation6: Whatever your role in your local food movement, we're ready to help. However you come to wonder what Open Food Network would look like or is doing in your part of the world, let's start the conversation.
+  groups_signup_motivation6: Whatever your role in your local food movement, we're ready to help. However you come to wonder what Harvest to Order would look like or is doing in your part of the world, let's start the conversation.
   groups_signup_motivation7: We make food movements make more sense.
   groups_signup_motivation8: You need to activate and enable your networks, we offer a platform for conversation and action. You need real engagement. We’ll help reach all the players, all the stakeholders, all the sectors.
   groups_signup_motivation9: You need resourcing. We’ll bring all our experience to bear. You need cooperation. We’ll better connect you to a global network of peers.
@@ -499,17 +499,17 @@ en_GB:
   modal_hubs_content1: You can search for a convenient hub by location or name. Some hubs have multiple points where you can pick-up your purchases, and some will also provide delivery options. Each food hub is a sales point with independent business operations and logistics - so variations between hubs are to be expected.
   modal_hubs_content2: You can only shop at one food hub at a time.
   modal_groups: "Groups / Regions"
-  modal_groups_content1: These are the organisations and relationships between hubs which make up the Open Food Network.
+  modal_groups_content1: These are the organisations and relationships between hubs which make up the Harvest to Order.
   modal_groups_content2: Some groups are clustered by location or council, others by non-geographic similarities.
   modal_how: "How it works"
-  modal_how_shop: Shop the Open Food Network
+  modal_how_shop: Shop the Harvest to Order
   modal_how_shop_explained: Search for a food hub near you to start shopping! You can expand each food hub to see what kinds of goodies are available, and click through to start shopping. (You can only shop one food hub at a time.)
   modal_how_pickup: Pick-ups, delivery and shipping costs
   modal_how_pickup_explained: Some food hubs deliver to your door, while others require you to pick-up your purchases. You can see which options are available on the homepage, and select which you'd like at the shopping and check-out pages. Delivery will cost more, and pricing differs from hub-to-hub. Each food hub is a sales point with independent business operations and logisitics - so variations between hubs are to be expected.
   modal_how_more: Learn more
-  modal_how_more_explained: "If you want to learn more about the Open Food Network, how it works, and get involved, check out:"
+  modal_how_more_explained: "If you want to learn more about the Harvest to Order, how it works, and get involved, check out:"
   modal_producers: "Producers"
-  modal_producers_explained: "Our producers make all the delicious food you can shop for on the Open Food Network."
+  modal_producers_explained: "Our producers make all the delicious food you can shop for on the Harvest to Order."
   producers_about: About us
   producers_buy: Shop for
   producers_contact: Contact
@@ -539,7 +539,7 @@ en_GB:
   products_price: "Price"
   register_title: Register
   sell_title: "Register"
-  sell_headline: "Get on the Open Food Network!"
+  sell_headline: "Get on the Harvest to Order!"
   sell_motivation: "Showcase your beautiful food."
   sell_producers: "Producers"
   sell_hubs: "Hubs"
@@ -640,7 +640,7 @@ en_GB:
   choose_password: "Choose a password"
   confirm_password: "Confirm password"
   action_signup: "Sign up now"
-  welcome_to_ofn: "Welcome to the Open Food Network!"
+  welcome_to_ofn: "Welcome to the Harvest to Order!"
   signup_or_login: "Start By signing up (or logging in)"
   have_an_account: "Already have an account?"
   action_login: "Log in now."
@@ -676,7 +676,7 @@ en_GB:
   logo_placeholder: "Your logo will appear here for review once uploaded"
   enterprise_about_headline: "Nice one!"
   enterprise_about_message: "Now let's flesh out the details about"
-  enterprise_success: "Success! %{enterprise} added to the Open Food Network "
+  enterprise_success: "Success! %{enterprise} added to the Harvest to Order "
   enterprise_registration_exit_message: "If you exit this wizard at any stage, you need to click the confirmation link in the email you have received. This will take you to your admin interface where you can continue setting up your profile."
   enterprise_description: "Short Description"
   enterprise_description_placeholder: "A short sentence describing your enterprise"
@@ -711,15 +711,15 @@ en_GB:
   registration_promo_image: "Landscape image for your profile"
   registration_about_us: "'About Us' text"
   registration_outcome_headline: "What do I get?"
-  registration_outcome1_html: "Your profile helps people <strong>find</strong> and <strong>contact</strong> you on the Open Food Network."
+  registration_outcome1_html: "Your profile helps people <strong>find</strong> and <strong>contact</strong> you on the Harvest to Order."
   registration_outcome2: "Use this space to tell the story of your enterprise, to help drive connections to your social and online presence. "
-  registration_outcome3: "It's also the first step towards trading on the Open Food Network, or opening an online store."
+  registration_outcome3: "It's also the first step towards trading on the Harvest to Order, or opening an online store."
   registration_finished_headline: "Finished!"
   registration_finished_thanks: "Thanks for filling out the details for %{enterprise}."
-  registration_finished_login: "You can change or update your enterprise at any stage by logging into Open Food Network and going to Admin."
+  registration_finished_login: "You can change or update your enterprise at any stage by logging into Harvest to Order and going to Admin."
   registration_finished_activate: "Activate %{enterprise}."
-  registration_finished_activate_instruction_html: "We've sent a confirmation email to <strong>%{email}</strong> if it hasn't been activated before.<br/> Please follow the instructions there to make your enterprise visible on the Open Food Network."
-  registration_finished_action: "Open Food Network home"
+  registration_finished_activate_instruction_html: "We've sent a confirmation email to <strong>%{email}</strong> if it hasn't been activated before.<br/> Please follow the instructions there to make your enterprise visible on the Harvest to Order."
+  registration_finished_action: "Harvest to Order home"
   registration_type_headline: "Last step to add %{enterprise}!"
   registration_type_question: "Are you a producer?"
   registration_type_producer: "Yes, I'm a producer"
@@ -879,7 +879,7 @@ en_GB:
   change_package: "Change Package"
   spree_admin_single_enterprise_hint: "Hint: To allow people to find you, turn on your visibility under"
   your_profil_live: "Your profile live"
-  on_ofn_map: "on the Open Food Network map"
+  on_ofn_map: "on the Harvest to Order map"
   see: "See"
   live: "live"
   manage: "Manage"
@@ -907,7 +907,7 @@ en_GB:
   hub_sidebar_blue: "blue"
   hub_sidebar_red: "red"
   shop_trial_in_progress: "Your shopfront trial expires in %{days}."
-  shop_trial_expired: "To view or change your current Open Food Network plan go to the Dashboard -> Change Package."
+  shop_trial_expired: "To view or change your current Harvest to Order plan go to the Dashboard -> Change Package."
   report_customers_distributor: "Distributor"
   report_customers_supplier: "Supplier"
   report_customers_cycle: "Order Cycle"

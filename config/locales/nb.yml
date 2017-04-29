@@ -20,12 +20,12 @@ nb:
       subject: "Vennligst bekreft e-postadressen til %{enterprise}"
     welcome:
       subject: "%{enterprise} er nå på %{sitename}"
-  title: Open Food Network
+  title: Harvest to Order
   welcome_to: 'Velkommen til '
   site_meta_description: "Vi begynner fra grunnen. Med bønder og dyrkere klare til å fortelle sine historier, stolt og virkelig. Med distributører klare til å koble mennesker med produkter på en rettferdig og ærlig måte. Med kunder som tror på at ukentlige innkjøpsrutiner kan..."
   search_by_name: Søk på navn eller sted...
   producers: 'Norske Produsenter'
-  producers_join: Norske produsenter er nå velkommen til å bli med i Open Food Network.
+  producers_join: Norske produsenter er nå velkommen til å bli med i Harvest to Order.
   charges_sales_tax: MVA-pliktig?
   print_invoice: "Skriv ut Faktura"
   send_invoice: "Send Faktura"
@@ -97,7 +97,7 @@ nb:
     business_model_configuration:
       edit:
         business_model_configuration: "Utforming av forretningsmodell"
-        business_model_configuration_tip: "Configure the rate at which shops will be charged each month for use of the Open Food Network."
+        business_model_configuration_tip: "Configure the rate at which shops will be charged each month for use of the Harvest to Order."
         bill_calculation_settings: "Bill Calculation Settings"
         bill_calculation_settings_tip: "Adjust the amount that enterprises will be billed each month for use of the OFN."
         shop_trial_length: "Lengden av prøveperioden (dager)"
@@ -221,7 +221,7 @@ nb:
       show_on_map: "Vis alle på kartet"
   shared:
     register_call:
-      selling_on_ofn: "Interessert i å bli med i Open Food Network?"
+      selling_on_ofn: "Interessert i å bli med i Harvest to Order?"
       register: "Registrer her"
   shop:
     messages:
@@ -303,11 +303,11 @@ nb:
   ofn_cart_quantitiy: "Antall:"
   ofn_cart_send: "Kjøp"
   ie_warning_headline: "Din nettleser er for gammel :-("
-  ie_warning_text: "For den beste opplevelsen med Open Food Network anbefaler vi på det sterkeste å oppgradere nettleseren din:"
+  ie_warning_text: "For den beste opplevelsen med Harvest to Order anbefaler vi på det sterkeste å oppgradere nettleseren din:"
   ie_warning_chrome: Last ned Chrome
   ie_warning_firefox: Last ned Firefox
   ie_warning_ie: Oppgrader Internet Explorer
-  ie_warning_other: "Kan ikke oppgradere nettleseren din? Prøv Open Food Network på smart-telefonen din :-)"
+  ie_warning_other: "Kan ikke oppgradere nettleseren din? Prøv Harvest to Order på smart-telefonen din :-)"
   footer_global_headline: "OFN Globalt"
   footer_global_home: "Hjem"
   footer_global_news: "Nyheter"
@@ -318,17 +318,17 @@ nb:
   footer_sites_community: "Forum"
   footer_sites_userguide: "Brukerhåndbok"
   footer_secure: "Sikker og klarert."
-  footer_secure_text: "Open Food Network bruker SSL-kryptering (2048 bit RSA) overalt for å holde handlingen og betalingen din privat. Våre servere lagrer ikke kortopplysninger og betalinger behandles av PCI-kompatible tjenester."
+  footer_secure_text: "Harvest to Order bruker SSL-kryptering (2048 bit RSA) overalt for å holde handlingen og betalingen din privat. Våre servere lagrer ikke kortopplysninger og betalinger behandles av PCI-kompatible tjenester."
   footer_contact_headline: "Hold kontakten"
   footer_contact_email: "Send oss en epost"
   footer_nav_headline: "Naviger"
   footer_join_headline: "Bli med"
-  footer_join_body: "Opprette en profil, butikk eller gruppe på Open Food Network."
+  footer_join_body: "Opprette en profil, butikk eller gruppe på Harvest to Order."
   footer_join_cta: "Fortell meg mer!"
   footer_legal_call: "Les våre"
   footer_legal_tos: "Vilkår og betingelser"
   footer_legal_visit: "Finn oss på"
-  footer_legal_text_html: "Open Food Network er en plattform med fri og åpen kildekode. Vårt innhold er lisensiert med %{content_license} og vår kode med %{code_license}."
+  footer_legal_text_html: "Harvest to Order er en plattform med fri og åpen kildekode. Vårt innhold er lisensiert med %{content_license} og vår kode med %{code_license}."
   home_shop: Handle nå
   brandstory_headline: "Food, unincorporated."
   brandstory_intro: "Noen ganger er det best å fikse systemet ved å starte et nytt..."
@@ -336,7 +336,7 @@ nb:
   brandstory_part2: "Da trenger vi en ordentlig måte å gjøre det på. En måte som styrker alle som dyrker, selger og kjøper mat. En måte å fortelle alle historiene på, håndtere all logistikk på. En måte å forvandle transaksjon til transformasjon hver dag."
   brandstory_part3: "Derfor bygger vi et online marked som endrer spillereglene. Det er transparent, slik at det skaper ekte relasjoner. Det er open-source, slik at det er eid av alle. Metoden er skalérbar for regioner og land, så folk kan starte versjoner over hele verden."
   brandstory_part4: "Det fungerer overalt. Det forandrer alt."
-  brandstory_part5_strong: "Vi kaller det Open Food Network."
+  brandstory_part5_strong: "Vi kaller det Harvest to Order."
   brandstory_part6: "Alle er vi glad i mat. Nå kan vi elske vårt matsystem også."
   learn_body: "See på modeller, historier og ressurser for å støtte deg å utvikle en god mat bedrift eller organisasjon. Finne opplæring, arrangement og andre muligheter til å lære fra andre."
   learn_cta: "Bli Inspirert"
@@ -498,7 +498,7 @@ nb:
   products_update_error_data: "Lagring mislyktes på grunn av ugyldige data:"
   products_changes_saved: "Endringene er lagret."
   search_no_results_html: "Beklager, ingen treff på %{query}. Prøv på nytt?"
-  components_profiles_popover: "Profiler har ikke butikkvindu på Open Food Network men kan ha sin egen fysiske butikk eller nettbutikk et annet sted"
+  components_profiles_popover: "Profiler har ikke butikkvindu på Harvest to Order men kan ha sin egen fysiske butikk eller nettbutikk et annet sted"
   components_profiles_show: "Vis profiler"
   components_filters_nofilters: "Ingen filter"
   components_filters_clearfilters: "Fjern alle filtre"
@@ -525,7 +525,7 @@ nb:
   groups_signup_motivation3: Vi vet du har gode ideer og vi ønsker å hjelpe. Vi deler vår kunnskap, våre nettverk og ressurser. Vi vet at isolasjon ikke skaper endring så vi vil samarbeide med deg.
   groups_signup_motivation4: Vi møter deg der du er.
   groups_signup_motivation5: Du kan være en allianse av mathubs, produsenter eller distributører, i industri eller lokale myndigheter.
-  groups_signup_motivation6: Uansett din rolle i den lokale matkjeden, vi ønsker å hjelpe. Hvis du lurer på hvordan Open Food Network vil se ut eller hva de gjør i din del av verden, la oss snakke sammen.
+  groups_signup_motivation6: Uansett din rolle i den lokale matkjeden, vi ønsker å hjelpe. Hvis du lurer på hvordan Harvest to Order vil se ut eller hva de gjør i din del av verden, la oss snakke sammen.
   groups_signup_motivation7: Vi gir matkjeden mer mening.
   groups_signup_motivation8: Du trenger å aktivere og tilrettelegge for dine nettverk, vi tilbyr en plattform for samtale og handling. Du trenger ekte engasjement. Vi hjelper til med å nå alle aktører, alle interessenter, alle sektorer.
   groups_signup_motivation9: Du trenger flere ressurser. Vi kommer med all erfaring vi kan bære. Du trenger samarbeid. Vi kobler deg med et globalt nettverk med likesinnede.
@@ -540,17 +540,17 @@ nb:
   modal_hubs_content1: Du kan søke etter en passende hub på lokasjon eller navn. Noen hubs har flere hentepunkt hvor du kan plukke opp det du har kjøpt, og noen tilbyr også levering. Hver mathub er en butikk med uavhengig drift og logistikk - så det vil være forskjeller mellom huber.
   modal_hubs_content2: Du kan kun handle hos en hub om gangen.
   modal_groups: "Grupper / Regioner"
-  modal_groups_content1: Dette er organisasjonene og hub-koblingene som utgjør Open Food Network.
+  modal_groups_content1: Dette er organisasjonene og hub-koblingene som utgjør Harvest to Order.
   modal_groups_content2: Noen grupper er klynger basert på lokalnivå eller regionnivå, andre har ingen geografiske likheter.
   modal_how: "Slik fungerer det"
-  modal_how_shop: Handle på Open Food Network
+  modal_how_shop: Handle på Harvest to Order
   modal_how_shop_explained: Søk etter en mathub nær deg for å begynne å handle! Du kan se detaljer for hver mathub for å se hvilke godbiter som finnes, og klikk deg videre for å handle. (Du kan kun handle hos en mathub om gangen).
   modal_how_pickup: Henting, levering og fraktkostnader
   modal_how_pickup_explained: Noen mathubs leverer på døren, mens andre krever at du henter varene du har kjøpt. Du kan se hvilke alternativ som er tilgjengelige på hjemmesiden, og velge hvilket du ønsker på handle- og betalingssidene. Levering koster mer, og prisene varierer fra hub til hub. Hver mathub er en forretning med uavhengig drift og logistikk - så variasjoner mellom hubs er naturlig.
   modal_how_more: Finn ut mer
-  modal_how_more_explained: "Hvis du ønsker å lære mer om Open Food Network, hvordan det fungerer og ta del, sjekk ut:"
+  modal_how_more_explained: "Hvis du ønsker å lære mer om Harvest to Order, hvordan det fungerer og ta del, sjekk ut:"
   modal_producers: "Produsenter"
-  modal_producers_explained: "Våre produsenter lager all den herlige maten du kan handle på Open Food Network."
+  modal_producers_explained: "Våre produsenter lager all den herlige maten du kan handle på Harvest to Order."
   producers_about: Om oss
   producers_buy: Handle
   producers_contact: Kontakt
@@ -580,7 +580,7 @@ nb:
   products_price: "Pris"
   register_title: Registrer
   sell_title: "Registrer"
-  sell_headline: "Bli med på Open Food Network!"
+  sell_headline: "Bli med på Harvest to Order!"
   sell_motivation: "Vis frem maten din."
   sell_producers: "Produsenter"
   sell_hubs: "Hubs"
@@ -680,7 +680,7 @@ nb:
   choose_password: "Velg et passord"
   confirm_password: "Bekreft passord"
   action_signup: "Registrer deg nå"
-  welcome_to_ofn: "Velkommen til Open Food Network!"
+  welcome_to_ofn: "Velkommen til Harvest to Order!"
   signup_or_login: "Kom i gang ved å registrere deg (eller logge inn)"
   have_an_account: "Har du allerede en konto?"
   action_login: "Logg inn nå."
@@ -716,7 +716,7 @@ nb:
   logo_placeholder: "Logoen din vil vises her til vurdering når den er lastet opp"
   enterprise_about_headline: "Bra!"
   enterprise_about_message: "Nå la oss finne ut detaljene om"
-  enterprise_success: "Suksess! %{enterprise} lagt til Open Food Network"
+  enterprise_success: "Suksess! %{enterprise} lagt til Harvest to Order"
   enterprise_registration_exit_message: "Hvis du avslutter denne veiviseren uansett steg må du klikke på bekreftelseslinken i eposten du har mottatt. Dette vil ta deg til din admin-side der du kan fortsette å sette opp din profil."
   enterprise_description: "Kort beskrivelse"
   enterprise_description_placeholder: "En kort setning som beskriver virksomheten din"
@@ -751,15 +751,15 @@ nb:
   registration_promo_image: "Profilbilde i landskapsformat"
   registration_about_us: "'Om oss' tekst"
   registration_outcome_headline: "Hva får jeg?"
-  registration_outcome1_html: "Profilen din hjelper folk å <strong>finne</ strong> og <strong>kontakte</ strong> deg på Open Food Network"
+  registration_outcome1_html: "Profilen din hjelper folk å <strong>finne</ strong> og <strong>kontakte</ strong> deg på Harvest to Order"
   registration_outcome2: "Bruk denne plassen til å fortelle historien om din bedrift for å øke antall koblinger til dine sosiale og online media."
-  registration_outcome3: "Det er også det første skrittet mot handel på Open Food Network eller å åpne en nettbutikk."
+  registration_outcome3: "Det er også det første skrittet mot handel på Harvest to Order eller å åpne en nettbutikk."
   registration_finished_headline: "Ferdig!"
   registration_finished_thanks: "Takk for at du fyller ut detaljene for %{enterprise}."
-  registration_finished_login: "Du kan endre eller oppdatere din virksomhet når som helst ved å logge inn på Open Food Network og gå til Admin."
+  registration_finished_login: "Du kan endre eller oppdatere din virksomhet når som helst ved å logge inn på Harvest to Order og gå til Admin."
   registration_finished_activate: "Aktivere %{enterprise}."
-  registration_finished_activate_instruction_html: "Vi har sendt en epostbekreftelse til <strong>%{email}</strong> hvis den ikke har blitt aktivert før.<br/> Følg instruksjonene der for å gjøre bedriften synlig på Open Food Network."
-  registration_finished_action: "Open Food Network hjem"
+  registration_finished_activate_instruction_html: "Vi har sendt en epostbekreftelse til <strong>%{email}</strong> hvis den ikke har blitt aktivert før.<br/> Følg instruksjonene der for å gjøre bedriften synlig på Harvest to Order."
+  registration_finished_action: "Harvest to Order hjem"
   registration_type_headline: "Siste stegfor å legge til %{enterprise}!"
   registration_type_question: "Er du en produsent?"
   registration_type_producer: "Ja, jeg er en produsent"
@@ -907,7 +907,7 @@ nb:
   change_package: "Endre Pakke"
   spree_admin_single_enterprise_hint: "Hint: For å hjelpe folk til å finne deg, skru på din synlighet under"
   your_profil_live: "Din profil live"
-  on_ofn_map: "på Open Food Network kartet"
+  on_ofn_map: "på Harvest to Order kartet"
   see: "Se"
   live: "live"
   manage: "Administrer"
