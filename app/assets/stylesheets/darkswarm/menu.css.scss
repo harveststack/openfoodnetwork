@@ -41,6 +41,7 @@ nav {
     i.ofn-i_022-cog {
       font-size: 24px;
       line-height: $topbar-height;
+      font-weight: 600 !important;
     }
   }
 
@@ -52,6 +53,7 @@ nav {
     font-size: 0.75rem;
     height: $topbar-height;
     opacity: 0.8;
+    font-weight: 600 !important;
 
     &:hover, &:focus, &:active {
       opacity: 1;
@@ -78,7 +80,7 @@ nav {
     @include headingFont;
 
     font-size: 0.875rem;
-    font-weight: 500;
+    font-weight: 600;
   }
 
   ul .nav-primary {

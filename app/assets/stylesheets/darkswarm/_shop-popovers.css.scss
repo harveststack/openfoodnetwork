@@ -150,3 +150,27 @@ button.graph-button.open {
     color: white;
   }
 }
+
+.joyride-tip-guide {
+  background: #f4f4f4;
+  color: #333333;
+  z-index: 101;
+  font-family: inherit;
+  font-weight: normal;
+}
+.joyride-tip-guide h1, .joyride-tip-guide h2, .joyride-tip-guide h3, .joyride-tip-guide h4, .joyride-tip-guide h5, .joyride-tip-guide h6 {
+  line-height: 1.25;
+  margin: 0;
+  font-weight: bold;
+  color: #333333;
+}
+
+.button.secondary[disabled] {
+  background-color: #333333;
+  border-color: #b9b9b9;
+  color: #f3f3f3;
+}
+.button.secondary[disabled]:hover, .button.secondary[disabled]:focus {
+  background-color: #222222;
+  color: #f3f3f3;
+}

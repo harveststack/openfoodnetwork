@@ -840,7 +840,7 @@ en-GB:
   admin_entreprise_groups_contact: "Contact"
   admin_entreprise_groups_contact_phone_placeholder: "eg. 98 7654 3210"
   admin_entreprise_groups_contact_address1_placeholder: "eg. 123 High Street"
-  admin_entreprise_groups_contact_city: "Suburb"
+  admin_entreprise_groups_contact_city: "Town"
   admin_entreprise_groups_contact_city_placeholder: "eg. Camden"
   admin_entreprise_groups_contact_zipcode: "Postcode"
   admin_entreprise_groups_contact_zipcode_placeholder: "eg. NW1 0AA"
